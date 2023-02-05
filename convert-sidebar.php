@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:       Convert SideBar To NavBar
- * Plugin URI:        https://easyapp24.com/
+ * Plugin URI:        http://devfer.epizy.com/
  * Description:       This plugin for convert sidebar to navbar dashboard admin.
  * Version:           1.0.0
  * Requires at least: 5.2
