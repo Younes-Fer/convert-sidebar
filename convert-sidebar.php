@@ -7,8 +7,8 @@
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.4.26
- * Author:            EasyApp24
- * Author URI:        https://easyapp24.com/
+ * Author:            Younes Fer
+ * Author URI:        http://devfer.epizy.com/
  */
 if (!defined('ABSPATH')) {
     exit;
