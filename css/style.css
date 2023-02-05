@@ -1,0 +1,13 @@
+#adminmenumain{
+    display: none;
+}
+#wpcontent{
+    margin-left: 0 ;
+}
+.pr{
+    padding-right: 6px !important;
+}
+
+.folded #wpcontent, .folded #wpfooter{
+    margin: 0 10px 0 10px !important;
+}
